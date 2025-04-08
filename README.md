@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Juien from France<br><br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Julien from France<br><br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
